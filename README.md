@@ -1,8 +1,8 @@
-# 🎸 _Rock And Roll_
+#  _Rock And Roll_
 
 ---
 
-## 🎮 Description
+## Description
 
 - This is a **mini game**.
 - There are **two players** who roll dice.
@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Go to the repository named **"RockAndRoll"**.
 2. Go to the **Code** section.
 3. Click on the **Code dropdown menu** (Green button).
 4. Download the **ZIP file** → Extract it at a suitable location.
-5. Open the **index.html** file in **Chrome** and enjoy the game! 🎉
+5. Open the **index.html** file in **Chrome** and enjoy the game! �
 
 ---
 
